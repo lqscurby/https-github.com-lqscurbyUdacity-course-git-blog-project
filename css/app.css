@@ -1,7 +1,11 @@
 body {backgroud-color: #00cae4;}
 
-.destination:hover h2 {transform: rotate(0deg);}
-h2 {margin: 0;
+.destination:hover h2 {
+    transform: rotate(0deg);
+}
+h2 {
+    margin: 0;
     transform: rotate(-45deg);
     transition: transform 0.5s;
-    text-shadow: 0 0 5px #01579b;}
+    text-shadow: 0 0 5px #01579b;
+}
